@@ -1,0 +1,118 @@
+.perfil{
+    height: 200%;
+    width:300px;
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.sobre{
+    height: 100%;
+    max-width: 100%;
+    width: 100%;
+    text-align: end;
+    
+}
+
+.formacao{
+    height: 100%;
+    max-width: 100%;
+    width: 100%;
+    text-align:center;
+    font-size: 20px;
+    font-style: italic;
+    
+}
+.aaa{
+    text-align: center;
+    font-size: 20px;
+    font-style:normal;
+}
+
+.sobre{
+    height: 100%;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+}
+.bbb{
+    text-align: center;
+    font-size: 20px;
+    font-style:normal;
+}
+
+.portifolio{
+    height: 100%;
+    max-width: 100%;
+    width: 100%;
+    text-align: center;
+    font-style: italic;
+}
+
+.ccc{
+    text-align: center;
+    font-size: 20px;
+    font-style: normal;
+}
+
+.container{
+    background-color: blue;
+    max-width: 100%;
+}
+
+.corprimary{
+ 
+    background-color: teal;
+    color:white;
+}
+
+.corsecundaria{
+    background-color: rgb(4, 7, 168);
+    color: white;
+}
+
+.corterciaria{
+
+      background-color: aqua;
+      color: white;
+}
+
+
+
+.fundoa{
+    box-shadow: 0 0 150px rgb(15, 90, 42) inset;
+    background: rgba(170, 159, 177, 0.3)
+}
+
+
+.fundob{
+    background-image: url(imagens/formação\ educacional.webp);
+    box-shadow: 0 0 150px rgb(61, 168, 99) inset;
+    background: rgba(28, 121, 59, 0.3)
+}
+
+.fundoc{
+    background-image: url(imagens/formação\ educacional.webp);
+    box-shadow: 0 0 150px rgba(2, 146, 52, 0.747) inset;
+    background: rgba(0, 0, 0, 0.3)
+}
+
+
+.jumbotron-heading{
+    color: white;
+}
+
+.corcabecalho{
+
+  color:white;
+  font-size: 16px;
+
+}
+
+.fw-normal{
+    font-size: 50px;
+}
+
+.subtitulo{
+    font-size: 30px;
+}
